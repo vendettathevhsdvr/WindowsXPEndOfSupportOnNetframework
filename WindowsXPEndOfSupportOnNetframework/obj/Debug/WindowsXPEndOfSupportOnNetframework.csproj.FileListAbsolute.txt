@@ -1,0 +1,11 @@
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\bin\Debug\XP End of support application.exe.config
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\bin\Debug\XP End of support application.exe
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\bin\Debug\XP End of support application.pdb
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.csproj.AssemblyReference.cache
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.Form1.resources
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.Properties.Resources.resources
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.csproj.GenerateResource.cache
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\WindowsXPEndOfSupportOnNetframework.csproj.CoreCompileInputs.cache
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\XP End of support application.exe
+C:\Users\Мастер\source\repos\WindowsXPEndOfSupportOnNetframework\WindowsXPEndOfSupportOnNetframework\obj\Debug\XP End of support application.pdb
